@@ -32,7 +32,8 @@ Welcome to the **Solana NFT Collection Project**! This project, built with the S
 - [Rust](https://www.rust-lang.org/tools/install)
 - [Solana CLI](https://solana.com/docs/intro/installation)
 - [Anchor CLI](https://www.anchor-lang.com/docs/installation)  (recommended version 0.28)
-   NOTE: Install **avm** version manager and then install the prefered anchor version.
+  
+  **NOTE**: Install **avm** version manager and then install the prefered anchor version.
 ### Clone the Repository
 
 ```bash
